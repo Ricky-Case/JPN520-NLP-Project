@@ -1,4 +1,4 @@
-# Japanese Linguistics (LIN 520) - Final Project
+# Japanese Linguistics (JPN 520) - Final Project
 
 ## Project Outline:
 - Independent research project in Japanese Linguistics.
